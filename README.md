@@ -29,10 +29,10 @@ Now you can modify to your liking with any IDE for HTML
 
 ## Authors ✒️
 
-· **Laura Gómez Ruiz**
+- **Laura Gómez Ruiz**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-CEE7FF?style=for-the-badge&labelColor=black&link=https%3A%2F%2Flauragomezruiz.netlify.app%2F)](https://lauragomezruiz.netlify.app/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgomezruiz/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-CEE7FF?style=for-the-badge&labelColor=black&link=https%3A%2F%2Flauragomezruiz.netlify.app%2F)](https://lauragomezruiz.netlify.app/)
+  [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgomezruiz/)
 
 ## Credits:
 - [Background Image by Christina Morillo](https://www.pexels.com/es-es/foto/dos-mujeres-mirando-el-codigo-en-la-computadora-portatil-1181263/)
